@@ -1,0 +1,5 @@
+langgraph>=0.0.40
+openai>=1.14.0
+pydantic>=2.6.0
+sqlglot>=23.0.0
+pytest>=8.0.0
